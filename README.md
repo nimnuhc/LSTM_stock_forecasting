@@ -1,2 +1,2 @@
 # LSTM_stock_forecasting
-My attempt and forecasting the stock's (S&amp;P500) price and trends from historical data using LSTM models from TensorFlow. I have also experimented the effect of using nomalisation scaling, max-min scaling, and parameters of the model to compare the performance in modelling the stock market. 
+My attempt and forecasting the stock's (S&amp;P500) price and trends from historical data using LSTM models from TensorFlow. I have also experimented the effect of using nomalisation scaling, max-min scaling, and parameters of the model to compare the performance in modelling the stock market. The mean absolute error of the first iteration is 0.3539 and I managed to reduce this to 0.0098 (36 times less than the initial mean absolute error)
